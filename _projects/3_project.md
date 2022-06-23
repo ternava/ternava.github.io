@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: incr. build
+description: Incremental build of software configurations
+img: assets/img/compiling.png
+redirect: https://github.com/ternava/Incremental-build
 importance: 3
 category: work
 ---

@@ -1,7 +1,12 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-06-17 17:00:00-00000
 inline: true
 ---
 
-A simple inline announcement.
+Our paper on <a href="https://doi.org/10.1007/978-3-031-08129-3_3">Scratching the surface of./configure: Learning the effects of compile-time options on binary size and gadgets</a>
+received the 🎉
+<a href="https://twitter.com/GPerrouin/status/1537799049000140800?s=20&t=1QNCn1d3G5EJCBbOX-byAw" style="color: orange;">
+    Best Paper Award
+</a> 🎉
+at the International Conference on Software and Systems Reuse (ICSR), 2022.

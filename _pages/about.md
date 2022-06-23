@@ -2,23 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:   
+      <p class="affiliation">Université de Rennes 1, IRISA, DiverSE, 263 Av. Général Leclerc, 35000 Rennes</p>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: fotojaime.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As from October 2020, I am a Post-Doctoral Researcher at [DiverSE](https://www.diverse-team.fr/) team, [Université de Rennes 1](https://www.univ-rennes1.fr/), Rennes, working on Software Engineering. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I previously received a Ph.D. in Computer Engineering at [I3S](https://www.i3s.unice.fr/en), [Université Côte d'Azur](https://univ-cotedazur.eu/), Sophia-Antipolis, in 2017, where I was fortunate to work with Professor [Philippe Collet](https://www.i3s.unice.fr/Philippe_Collet/) on the <b>engineering of software variability</b>.
+After it, I worked as a Post-Doctoral Researcher for 2 years at [LIP6](https://www.lip6.fr/?LANG=en), [Sorbonne Université](https://www.sorbonne-universite.fr/en), Paris. During this time, I worked on the [ITEA REVAMP2](http://www.revamp2-project.eu/) project, co-leading the Work Package on <em>"Asset Extraction Automation & Visualisation Technologies"</em> for Software Product Line reverse engineering.
+
+Before starting my Ph.D. in France, I worked for 3.5 years as Associate Lecturer in [Iliria College](https://uiliria.org/), 1 year as Analyst for Small Business Loans in [ProCredit Bank](https://www.procreditbank-kos.com/eng/homepage/), and 6.5 years as IT Team Leader in [Albi Group](http://www.albigroup.com/?lang=en), a leading Product Distribution Company in Kosova.

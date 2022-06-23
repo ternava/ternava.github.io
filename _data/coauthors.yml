@@ -1,18 +1,63 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Tërnava":
+  - firstname: ["Xhevahire", "T.", "Xh. T.", "Xhevahire Tërnava"]
+    url: https://ternava.github.io/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Mortara":
+  - firstname: ["Johann", "M.", "J. M.", "Johann Mortara"]
+    url: https://j-mortara.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Collet":
+  - firstname: ["Philippe", "C.", "P. C.", "Philippe Collet"]
+    url: https://www.i3s.unice.fr/Philippe_Collet/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Acher":
+  - firstname: ["Mathieu", "A.", "M. A.", "Mathieu Acher"]
+    url: https://www.mathieuacher.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Lesoil":
+  - firstname: ["Luc", "L.", "L. L.", "Luc Lesoil"]
+    url: ""
+
+"Jézéquel":
+  - firstname: ["Jean-Marc", "J.", "J-M. J.", "Jean-Marc Jézéquel"]
+    url: https://people.irisa.fr/Jean-Marc.Jezequel/
+
+"Blouin":
+  - firstname: ["Arnaud", "B.", "A. B.", "Arnaud Blouin"]
+    url: https://people.irisa.fr/Arnaud.Blouin
+
+"Khelladi":
+  - firstname: ["Djamel Eddine", "K.", "D. E. K.", "Djamel Eddine Khelladi"]
+    url: http://people.irisa.fr/Djamel-Eddine.Khelladi/
+
+"Berre":
+  - firstname: ["Daniel Le", "B.", "D. L. B.", "Daniel Le Berre"]
+    url: http://www.cril.univ-artois.fr/~leberre/
+
+"Randrianaina":
+  - firstname: ["Georges Aaron", "R.", "G. A. R.", "Georges Aaron Randrianaina"]
+    url: http://perso.eleves.ens-rennes.fr/people/georges-aaron.randrianaina/index.html
+
+"Pinna-Dery":
+  - firstname: ["Anne-Marie", "P.-D.", "A.M. P.D.", "Anne-Marie Pinna-Dery"]
+    url: http://users.polytech.unice.fr/~pinna/
+
+"Aponte":
+  - firstname: ["Jairo", "A.", "J. A.", "Jairo Aponte"]
+    url: https://sites.google.com/a/unal.edu.co/jairo-aponte/
+
+"Figueiredo":
+  - firstname: ["Eduardo", "F.", "E. F.", "Eduardo Figueiredo"]
+    url: https://homepages.dcc.ufmg.br/~figueiredo/
+
+"Valente":
+  - firstname: ["Marco", "V.", "M. V.", "Marco Valente"]
+    url: https://homepages.dcc.ufmg.br/~mtov/
+
+"Martinez":
+  - firstname: ["Jabier", "M.", "J. M.", "Jabier Martinez"]
+    url: https://sites.google.com/site/jabiermartinezwebsite
+
+"Ziadi": 
+  - firstname: ["Tewfik", "Z.", "T. Z.", "Tewfik Ziadi"]
+    url: https://pages.lip6.fr/tewfik.ziadi/

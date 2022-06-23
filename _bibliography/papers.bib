@@ -221,6 +221,37 @@
   abstract = {Many variability-rich object-oriented systems rely on multiple traditional techniques (inheritance, patterns) to implement their variability in a single codebase. These variability implementation places are neither explicit nor documented, hampering their detection and variability comprehension. Based on the identification of symmetry property in seven implementation techniques, a first approach was proposed with symfinder to automatically identify and display the variability of a system in a graph-based visualization structured by inheritance. However, composition, or more generally the usage relationship, is extensively used to implement the variability in object-oriented systems, and without this information, comprehending the large amount of variability identified by symfinder is not trivial. In this paper, we present symfinder-2, an extension of the former approach that incorporates the usage relationships to better identify potential variability implementations. We provide two ways to mark classes as entry points, user-defined and automatic, so that the visualization is filtered and enables users to have a better focus when they identify variability. We also report on the evaluation of this extension to ten open-source Java-based systems.},
 }
 
+@inproceedings{ternava2022scratching,
+  abbr={ICSR22},
+  bibtex_show={true},
+  abstract={This is the paper's abstract},
+  title={Scratching the surface of./configure: Learning the effects of compile-time options on binary size and gadgets},
+  author={Tërnava, Xhevahire and Acher, Mathieu and Lesoil, Luc and Blouin, Arnaud and Jézéquel, Jean-Marc},
+  booktitle={The International Conference on Software and Systems Reuse},
+  year={2022},
+  doi={10.1007/978-3-031-08129-3_3},
+  html={https://doi.org/10.1007/978-3-031-08129-3_3},
+  pdf={https://hal.archives-ouvertes.fr/hal-03627246/document},
+  supp={https://github.com/diverse-project/confsurface},
+  award={Best Paper Award},
+  alink={https://twitter.com/GPerrouin/status/1537799049000140800?s=20&t=1QNCn1d3G5EJCBbOX-byAw},
+  abstract={Numerous software systems are configurable through compile-time options and the widely used ./configure. However, the combined effects of these options on binary's non-functional properties (size and attack surface) are often not documented, and or not well understood, even by experts. Our goal is to provide automated support for exploring and comprehending the configuration space (a.k.a., surface) of compile-time options using statistical learning techniques. In this paper, we perform an empirical study on four C-based configurable systems. We measure the variation of binary size and attack surface (by quantifying the number of code reuse gadgets) in over 400 compile-time configurations of a subject system. We then apply statistical learning techniques on top of our build infrastructure to identify how compile-time options relate to non-functional properties. Our results show that, by changing the default configuration, the system's binary size and gadgets vary greatly (roughly {\$}{\$}-79{\backslash}{\%}{\$}{\$}-79{\%}to {\$}{\$}244{\backslash}{\%}{\$}{\$}244{\%}and {\$}{\$}-77{\backslash}{\%}{\$}{\$}-77{\%}to {\$}{\$}30{\backslash}{\%}{\$}{\$}30{\%}, respectively). Then, we found out that identifying the most influential options can be accurately learned with a small training set, while their relative importance varies across size and attack surface for the same system. Practitioners can use our approach and artifacts to explore the effects of compile-time options in order to take informed decisions when configuring a system with ./configure.},
+}
+
+@inproceedings{aaron2022,
+  abbr={ICSE22},
+  bibtex_show={true},
+  title={On the benefits and limits of incremental build of software configurations: An exploratory study},
+  author={Randrianaina, Georges Aaron and Tërnava, Xhevahire and Khelladi, Djamel Eddine and Acher, Mathieu},
+  booktitle={44th International Conference on Software Engineering},
+  year={2022},
+  html={https://hal.archives-ouvertes.fr/hal-03547219/},
+  doi={https://hal.archives-ouvertes.fr/hal-03547219/},
+  pdf={https://hal.archives-ouvertes.fr/hal-03547219v3/document},
+  supp={https://zenodo.org/record/5917570#.YrHnX9JBxB8},
+  abstract={Software projects use build systems to automate the compilation, testing, and continuous deployment of their software products. As software becomes increasingly configurable, the build of multiple configurations is a pressing need, but expensive and challenging to implement. The current state of practice is to build independently (a.k.a., clean build) a software for a subset of configurations. While incremental build has been studied for software evolution and relatively small changes of the source code, it has surprisingly not been considered for software configurations. In this exploratory study, we examine the benefits and limits of building software configurations incrementally, rather than always building them cleanly. By using five real-life configurable systems as subjects, we explore whether incremental build works, outperforms a sequence of clean builds, is correct w.r.t. clean build, and can be used to find an optimal ordering for building configurations. Our results show that incremental build is feasible in 100% of the times in four subjects and in 78% of the times in one subject. In average, 88.5% of the configurations could be built faster with incremental build while also finding several alternatives faster incremental builds. However, only 60% of faster incremental builds are correct. Still, when considering those correct incremental builds with clean builds, we could always find an optimal order that is faster than just a collection of clean builds with a gain up to 11.76%.},
+}
+
 @article{ternava2022,
   abbr={ASE22},
   bibtex_show={true},
@@ -240,20 +271,6 @@
   abstract={Most modern object-oriented software systems are variability-rich, despite that they may not be developed as product lines. Their variability is implemented by several traditional techniques in combination, such as inheritance, overloading, or design patterns. As domain features or variation points with variants are not a by-product of these techniques, variability in code assets of such systems is implicit, and hardly documented, hampering qualities such as understandability and maintainability. In this article, we present an approach for automatic identification and visualization of variability implementation places, that is, variation points with variants, in variability-rich systems. To uniformly identify them, we propose to rely on the existing symmetries in the different software constructs and patterns. We then propose to visualize them according to their density. By means of our realized toolchain implementing the approach, symfinder, we report on a threefold evaluation, (i) on the identified potential variability in sixteen large open-source systems and symfinder ’s scalability, (ii) on measuring symfinder ’s precision and robustness when mapping identified variability to domain features, and (iii) on its usage by a software architect. Results show that symfinder can indeed help in identifying and comprehending the variability of the targeted systems.},
 }
 
-@inproceedings{aaron2022,
-  abbr={ICSE22},
-  bibtex_show={true},
-  title={On the benefits and limits of incremental build of software configurations: An exploratory study},
-  author={Randrianaina, Georges Aaron and Tërnava, Xhevahire and Khelladi, Djamel Eddine and Acher, Mathieu},
-  booktitle={44th International Conference on Software Engineering},
-  year={2022},
-  html={https://hal.archives-ouvertes.fr/hal-03547219/},
-  doi={https://hal.archives-ouvertes.fr/hal-03547219/},
-  pdf={https://hal.archives-ouvertes.fr/hal-03547219v3/document},
-  supp={https://zenodo.org/record/5917570#.YrHnX9JBxB8},
-  abstract={Software projects use build systems to automate the compilation, testing, and continuous deployment of their software products. As software becomes increasingly configurable, the build of multiple configurations is a pressing need, but expensive and challenging to implement. The current state of practice is to build independently (a.k.a., clean build) a software for a subset of configurations. While incremental build has been studied for software evolution and relatively small changes of the source code, it has surprisingly not been considered for software configurations. In this exploratory study, we examine the benefits and limits of building software configurations incrementally, rather than always building them cleanly. By using five real-life configurable systems as subjects, we explore whether incremental build works, outperforms a sequence of clean builds, is correct w.r.t. clean build, and can be used to find an optimal ordering for building configurations. Our results show that incremental build is feasible in 100% of the times in four subjects and in 78% of the times in one subject. In average, 88.5% of the configurations could be built faster with incremental build while also finding several alternatives faster incremental builds. However, only 60% of faster incremental builds are correct. Still, when considering those correct incremental builds with clean builds, we could always find an optimal order that is faster than just a collection of clean builds with a gain up to 11.76%.},
-}
-
 @inproceedings{ternava2022interaction,
   abbr={VaMoS22},
   bibtex_show={true},
@@ -269,19 +286,3 @@
   abstract = {Feature toggling is a technique for enabling branching-in-code. It is increasingly used during continuous deployment to incrementally test and integrate new features before their release. In principle, feature toggles tend to be light, that is, they are defined as simple Boolean flags and used in conditional statements to condition the activation of some software features. However, there is a lack of knowledge on whether and how they may interact with each other, in that case their enabling and testing become complex. We argue that finding the interactions of feature toggles is valuable for developers to know which of them should be enabled at the same time, which are impacted by a removed toggle, and to avoid their mis-configurations. In this work, we mine feature toggles and their interactions in five open-source projects. We then analyse how they are realized and whether they tend to be multiplied over time. Our results show that 7% of feature toggles interact with each other, 33% of them interact with another code expression, and their interactions tend to increase over time (22%, on average). Further, their interactions are expressed by simple logical operators (i.e., and and or) and nested if statements. We propose to model them into a Feature Toggle Model, and believe that our results are helpful towards robust management approaches of feature toggles.},
 }
 
-@inproceedings{ternava2022scratching,
-  abbr={ICSR22},
-  bibtex_show={true},
-  abstract={This is the paper's abstract},
-  title={Scratching the surface of./configure: Learning the effects of compile-time options on binary size and gadgets},
-  author={Tërnava, Xhevahire and Acher, Mathieu and Lesoil, Luc and Blouin, Arnaud and Jézéquel, Jean-Marc},
-  booktitle={The International Conference on Software and Systems Reuse},
-  year={2022},
-  doi={10.1007/978-3-031-08129-3_3},
-  html={https://doi.org/10.1007/978-3-031-08129-3_3},
-  pdf={https://hal.archives-ouvertes.fr/hal-03627246/document},
-  supp={https://github.com/diverse-project/confsurface},
-  award={Best Paper Award},
-  alink={https://twitter.com/GPerrouin/status/1537799049000140800?s=20&t=1QNCn1d3G5EJCBbOX-byAw},
-  abstract={Numerous software systems are configurable through compile-time options and the widely used ./configure. However, the combined effects of these options on binary's non-functional properties (size and attack surface) are often not documented, and or not well understood, even by experts. Our goal is to provide automated support for exploring and comprehending the configuration space (a.k.a., surface) of compile-time options using statistical learning techniques. In this paper, we perform an empirical study on four C-based configurable systems. We measure the variation of binary size and attack surface (by quantifying the number of code reuse gadgets) in over 400 compile-time configurations of a subject system. We then apply statistical learning techniques on top of our build infrastructure to identify how compile-time options relate to non-functional properties. Our results show that, by changing the default configuration, the system's binary size and gadgets vary greatly (roughly {\$}{\$}-79{\backslash}{\%}{\$}{\$}-79{\%}to {\$}{\$}244{\backslash}{\%}{\$}{\$}244{\%}and {\$}{\$}-77{\backslash}{\%}{\$}{\$}-77{\%}to {\$}{\$}30{\backslash}{\%}{\$}{\$}30{\%}, respectively). Then, we found out that identifying the most influential options can be accurately learned with a small training set, while their relative importance varies across size and attack surface for the same system. Practitioners can use our approach and artifacts to explore the effects of compile-time options in order to take informed decisions when configuring a system with ./configure.},
-}

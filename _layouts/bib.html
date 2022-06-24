@@ -96,6 +96,11 @@
                 <a href="{{ entry.alink }}" class="alert alert-warning" role="alert" style="padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem;">{{entry.award}}</a>
             </div>
           {%- endif %}
+          {%- if entry.badge %}
+            <div class="abbr">
+                <a href="{{ entry.blink }}" class="alert alert-success" role="alert" style="padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem;">{{entry.badge}}</a>
+            </div>
+          {%- endif %}
         {%- endif %}
         
           <!-- Links/Buttons -->

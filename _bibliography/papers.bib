@@ -13,7 +13,6 @@
   pages={132--142},
   year={2018},
   html = {https://doi.org/10.1145/3233027.3233038},
-  badge={https://splc.net/},
   doi = {10.1145/3233027.3233038},
   pdf={https://hal.sorbonne-universite.fr/hal-01832650/document},
   supp={https://github.com/but4reuse/RobocodeSPL_teaching},
@@ -135,6 +134,8 @@
   pdf={https://hal.archives-ouvertes.fr/hal-02339296/document},
   code={https://github.com/DeathStar3/symfinder},
   Website={https://deathstar3.github.io/symfinder-demo/},
+  badge={Awarded with the badge Reusable},
+  blink={https://www.acm.org/publications/policies/artifact-review-badging},
   abstract = {In many variability-intensive systems, variability is implemented in code units provided by a host language, such as classes or functions, which do not align well with the domain features. Annotating or creating an orthogonal decomposition of code in terms of features implies extra effort, as well as massive and cumbersome refactoring activities. In this paper, we introduce an approach for identifying and visualizing the variability implementation places within the main decomposition structure of object-oriented code assets in a single variability-rich system. First, we propose to use symmetry, as a common property of some main implementation techniques, such as inheritance or overloading, to identify uniformly these places. We study symmetry in different constructs (e.g., classes), techniques (e.g., subtyping, overloading) and design patterns (e.g., strategy, factory), and we also show how we can use such symmetries to find variation points with variants. We then report on the implementation and application of a toolchain, symfinder, which automatically identifies and visualizes places with symmetry. The publicly available application to several large open-source systems shows that symfinder can help in characterizing code bases that are variability-rich or not, as well as in discerning zones of interest w.r.t. variability.},
 }
 
@@ -203,6 +204,8 @@
   doi = {10.1145/3461001.3471149},
   pdf={https://hal.archives-ouvertes.fr/hal-03286127/document},
   code={https://github.com/llesoil/ctime_opt},
+  badge={Awarded with the badges Reusable, Available, and Reproducible},
+  blink={https://www.acm.org/publications/policies/artifact-review-badging},
   abstract = {Many software projects are configurable through compile-time options (e.g., using ./configure) and also through run-time options (e.g., command-line parameters, fed to the software at execution time). Several works have shown how to predict the effect of run-time options on performance. However it is yet to be studied how these prediction models behave when the software is built with different compile-time options. For instance, is the best run-time configuration always the best w.r.t. the chosen compilation options? In this paper, we investigate the effect of compile-time options on the performance distributions of 4 software systems. There are cases where the compiler layer effect is linear which is an opportunity to generalize performance models or to tune and measure runtime performance at lower cost. We also prove there can exist an interplay by exhibiting a case where compile-time options significantly alter the performance distributions of a configurable system.},
 }
 
@@ -251,6 +254,8 @@
   doi       = {10.1145/3510457.3513035},
   pdf={https://hal.archives-ouvertes.fr/hal-03547219v3/document},
   supp={https://zenodo.org/record/5917570#.YrHnX9JBxB8},
+  badge={Awarded with the badges Reusable and Available},
+  blink={https://www.acm.org/publications/policies/artifact-review-badging},
   abstract={Software projects use build systems to automate the compilation, testing, and continuous deployment of their software products. As software becomes increasingly configurable, the build of multiple configurations is a pressing need, but expensive and challenging to implement. The current state of practice is to build independently (a.k.a., clean build) a software for a subset of configurations. While incremental build has been studied for software evolution and relatively small changes of the source code, it has surprisingly not been considered for software configurations. In this exploratory study, we examine the benefits and limits of building software configurations incrementally, rather than always building them cleanly. By using five real-life configurable systems as subjects, we explore whether incremental build works, outperforms a sequence of clean builds, is correct w.r.t. clean build, and can be used to find an optimal ordering for building configurations. Our results show that incremental build is feasible in 100% of the times in four subjects and in 78% of the times in one subject. In average, 88.5% of the configurations could be built faster with incremental build while also finding several alternatives faster incremental builds. However, only 60% of faster incremental builds are correct. Still, when considering those correct incremental builds with clean builds, we could always find an optimal order that is faster than just a collection of clean builds with a gain up to 11.76%.},
 }
 

@@ -12,4 +12,4 @@ received the 🎉
 </a> 🎉
 at the International Conference on Software and Systems Reuse (ICSR), 2022.
 
-{% twitter https://twitter.com/GPerrouin/status/1537799049000140800?ref_src=twsrc%5Etfw %}
+{% twitter https://twitter.com/GPerrouin/status/1537799049000140800?ref_src=twsrc%5Etfw maxwidth=500 %}

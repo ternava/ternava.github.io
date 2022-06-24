@@ -1,6 +1,6 @@
 ---
 layout: page
 title: curriculum vitae
-nav: true
+nav: false
 nav_order: 5
 ---

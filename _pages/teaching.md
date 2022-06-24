@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: I have over 3.3 years of teaching experience.
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 <!--courses tought-->

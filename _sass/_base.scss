@@ -15,6 +15,7 @@ hr {
 table {
     td, th {
       color: var(--global-text-color);
+      max-width: 30vw; // added
     }
     td {
       font-size: 1rem;
@@ -270,6 +271,7 @@ footer.fixed-bottom {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
+    text-align: center;
   }
   a {
     color: var(--global-footer-link-color);
@@ -605,4 +607,9 @@ html.transition *:after {
       padding: 8px;
     }
   }
+}
+
+// Twittes size
+.twitter-timeline {
+  width: 60% !important;
 }

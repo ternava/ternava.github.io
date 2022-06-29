@@ -44,3 +44,17 @@ My services, leadership, and volunteering activities for the research community.
 * [SPLC 2017](https://congreso.us.es/splc2017/): Presented 2 of our [research works](https://hal.archives-ouvertes.fr/hal-01699878/document) on the 21th International Systems and Software Product Line Conference, Seville, Spain, September 25 - 29, 2017
 
 * [ICSR 2017](https://icsr2017.ufba.br/): Presented our [research work](https://hal.archives-ouvertes.fr/hal-01486216/document) on the 16th International Conference on Software and Systems Reuse, Salvador, Brazil, May 29 - 31, 2017
+
+
+## European project's participations
+    
+* Plenary Meeting of [ITEA3 REVaMP2](https://www.revamp2-project.eu/) (Round-trip Engineering and Variability Management Platform and Process), Karlsruhe, Germany, 2018
+
+## Regional conferences' participations:
+    
+I have participated in 4 regional [CEFE International](http://www.cefe.net) conferences on entrepreneurship. It was a yearly event where CEFE trainers from Kosovo, Albania, Macedonia, Bosnia and Herzegovina, Serbia, and Montenegro gathered to exchange their training experiences.
+
+* 1st CEFE regional conference. Prishtinë, Kosovo, 2005
+* 2nd CEFE regional conference. Bosnia and Hercegovina, Sarajevo, 2006
+* 3rd CEFE regional conference. Beçiq, Montenegro, 2007 
+* 4th CEFE regional conference. Ohër, Macedonia, 2008

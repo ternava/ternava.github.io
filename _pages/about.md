@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: fotojaime.jpg
+  image: fotojaime02.jpg
   address: >
 
 

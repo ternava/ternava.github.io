@@ -5,7 +5,7 @@ permalink: /projects/
 description: Software tools and projects related to my research work.
 nav: true
 nav_order: 1
-display_categories: [work] #, fun]
+display_categories: [work, work - european project (ended)] #, fun]
 horizontal: false
 ---
 

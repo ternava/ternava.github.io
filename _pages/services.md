@@ -17,7 +17,9 @@ My services, leadership, and volunteering activities for the research community.
 
 ## Services to the Community
 
-* [VariVolution 2022](https://sites.google.com/view/varivolution2022): <b>Program Committee Member.</b> An upcomming 5th International Workshop on Variability and Evolution of Software-intensive Systems, as part of the 26th ACM International Systems and Software product Line Conference, Graz, Austria, September 12 - 16, 2022 <br />
+*[VaMoS 2023](https://vamos2023.sdu.dk/): <b>Program Committee Member.</b> The upcomming 17th International Working Conference on Variability Modelling of Software-Intensive Systems, Odense, Denmark, January 25 - 27, 2023 <br />
+
+* [VariVolution 2022](https://sites.google.com/view/varivolution2022): <b>Program Committee Member.</b> The upcomming 5th International Workshop on Variability and Evolution of Software-intensive Systems, as part of the 26th ACM International Systems and Software product Line Conference, Graz, Austria, September 12 - 16, 2022 <br />
 
 * [ICSR 2022](https://icsr2022v2.wp.imt.fr/): <b>Program Committee Member.</b> I reviewed 3 papers for the 20th International Conference on Software and Systems Reuse, Montpellier, France, June 15 - 17, 2022 <br />
 
@@ -50,7 +52,7 @@ My services, leadership, and volunteering activities for the research community.
     
 * Plenary Meeting of [ITEA3 REVaMP2](https://www.revamp2-project.eu/) (Round-trip Engineering and Variability Management Platform and Process), Karlsruhe, Germany, 2018
 
-## Regional conferences' participations:
+## Regional conferences' participations
     
 I have participated in 4 regional [CEFE International](http://www.cefe.net) conferences on entrepreneurship. It was a yearly event where CEFE trainers from Kosovo, Albania, Macedonia, Bosnia and Herzegovina, Serbia, and Montenegro gathered to exchange their training experiences.
 

@@ -292,4 +292,17 @@
   supp={https://github.com/llesoil/poc_ftm},
   abstract = {Feature toggling is a technique for enabling branching-in-code. It is increasingly used during continuous deployment to incrementally test and integrate new features before their release. In principle, feature toggles tend to be light, that is, they are defined as simple Boolean flags and used in conditional statements to condition the activation of some software features. However, there is a lack of knowledge on whether and how they may interact with each other, in that case their enabling and testing become complex. We argue that finding the interactions of feature toggles is valuable for developers to know which of them should be enabled at the same time, which are impacted by a removed toggle, and to avoid their mis-configurations. In this work, we mine feature toggles and their interactions in five open-source projects. We then analyse how they are realized and whether they tend to be multiplied over time. Our results show that 7% of feature toggles interact with each other, 33% of them interact with another code expression, and their interactions tend to increase over time (22%, on average). Further, their interactions are expressed by simple logical operators (i.e., and and or) and nested if statements. We propose to model them into a Feature Toggle Model, and believe that our results are helpful towards robust management approaches of feature toggles.},
 }
+@inproceedings{ternava2023remove,
+  abbr={VaMoS23},
+  bibtex_show={true},
+  title={A call for removing variability},
+  author={Acher, Mathieu and Lesoil, Luc and Randrianaina, Georges Aaron and Tërnava, Xhevahire and Zendra, Olivier},
+  booktitle={17th International Working Conference on Variability Modelling of Software-Intensive Systems},
+  pages={1--3},
+  year={2023},
+  html = {https://doi.org/10.1145/3571788.3571801},
+  doi = {10.1145/3571788.3571801},
+  pdf={https://hal.archives-ouvertes.fr/hal-03882594},
+  abstract = {Software variability is largely accepted and explored in software engineering and seems to have become a norm and a must, if only in the context of product lines. Yet, the removal of superfluous or unneeded software artefacts and functionalities is an inevitable trend. It is frequently investigated in relation to software bloat. This paper is essentially a call to the community on software variability to devise methods and tools that will facilitate the removal of unneeded variability from software systems. The advantages are expected to be numerous in terms of functional and non-functional properties, such as maintainability (lower complexity), security (smaller attack surface), reliability, and performance (smaller binaries).},
+}
 

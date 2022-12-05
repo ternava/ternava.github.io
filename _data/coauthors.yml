@@ -61,3 +61,11 @@
 "Ziadi": 
   - firstname: ["Tewfik", "Z.", "T. Z.", "Tewfik Ziadi"]
     url: https://pages.lip6.fr/tewfik.ziadi/
+
+"Combemale": 
+  - firstname: ["Benoit", "C.", "B. C.", "Benoit Combemale"]
+    url: https://people.irisa.fr/Benoit.Combemale/
+
+"Zendra": 
+  - firstname: ["Olivier", "Z.", "O. Z.", "Olivier Zendra"]
+    url: https://members.loria.fr/OZendra/

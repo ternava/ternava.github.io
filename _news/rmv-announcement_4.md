@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: post
 date: 2021-12-02 00:00:00-00000
 inline: true
 ---

@@ -17,7 +17,7 @@ My services, leadership, and volunteering activities for the research community.
 
 ## Services to the Community
 
-* [VaMoS 2023](https://vamos2023.sdu.dk/): <b>Program Committee Member.</b> The upcomming 17th International Working Conference on Variability Modelling of Software-Intensive Systems, Odense, Denmark, January 25 - 27, 2023 <br />
+* [VaMoS 2023](https://vamos2023.sdu.dk/): <b>Program Committee Member.</b> I reviewed 2 papers for the 17th International Working Conference on Variability Modelling of Software-Intensive Systems, Odense, Denmark, January 25 - 27, 2023 <br />
 
 * [VariVolution 2022](https://sites.google.com/view/varivolution2022): <b>Program Committee Member.</b> I reviewed 1 paper for the 5th International Workshop on Variability and Evolution of Software-intensive Systems, as part of the 26th ACM International Systems and Software product Line Conference, Graz, Austria, September 12 - 16, 2022 <br />
 

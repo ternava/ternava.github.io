@@ -24,4 +24,4 @@ After it, I worked as a Post-Doctoral Researcher for 2 years at [LIP6](https://w
 
 <!--the Work Package on <em>"Asset Extraction Automation & Visualisation Technologies"</em> for Software Product Line Reverse Engineering.-->
 
-Before starting my Ph.D. in France, I worked for 3.3 years as Associate Lecturer in [Iliria College](https://uiliria.org/), 1 year as Analyst for Small Business Loans in [ProCredit Bank](https://www.procreditbank-kos.com/eng/homepage/), and 6.5 years as IT Team Leader in [Albi Group](http://www.albigroup.com/?lang=en), a leading Product Distribution Company in Kosova.
+Before starting my Ph.D. in France, I worked for 3.3 years as Assistant Lecturer in [Iliria College](https://uiliria.org/), 1 year as Analyst for Small Business Loans in [ProCredit Bank](https://www.procreditbank-kos.com/eng/homepage/), and 6.5 years as IT Team Leader in [Albi Group](http://www.albigroup.com/?lang=en), a leading Product Distribution Company in Kosova.

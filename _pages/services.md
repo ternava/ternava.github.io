@@ -17,6 +17,8 @@ My services, leadership, and volunteering activities for the research community.
 
 ## Services to the Community
 
+* [EMSE 2023](https://www.springer.com/journal/10664): <b>Reviewer.</b> I reviewed 1 article for the Empirical Software Engineering Journal, December 15, 2022 - January 26, 2023<br />
+
 * [VaMoS 2023](https://vamos2023.sdu.dk/): <b>Program Committee Member.</b> I reviewed 2 papers for the 17th International Working Conference on Variability Modelling of Software-Intensive Systems, Odense, Denmark, January 25 - 27, 2023 <br />
 
 * [VariVolution 2022](https://sites.google.com/view/varivolution2022): <b>Program Committee Member.</b> I reviewed 1 paper for the 5th International Workshop on Variability and Evolution of Software-intensive Systems, as part of the 26th ACM International Systems and Software product Line Conference, Graz, Austria, September 12 - 16, 2022 <br />
@@ -29,7 +31,7 @@ My services, leadership, and volunteering activities for the research community.
 
 * [RE 2021](https://conf.researchr.org/home/RE-2021): <b>Sub-reviewer.</b> I reviewed 1 paper for the 29th IEEE International Requirements Engineering Conference, Notre Dame, South Bend, USA, September 20 - 24, 2021 <br />
 
-* [EMSE 2020](https://www.springer.com/journal/10664): <b>Reviewer.</b> I reviewed 1 paper for the Empirical Software Engineering Journal: Special Issue on "Configurable Systems" <br />
+* [EMSE 2020](https://www.springer.com/journal/10664): <b>Reviewer.</b> I reviewed 1 article for the Empirical Software Engineering Journal: Special Issue on "Configurable Systems" <br />
 
 * [SPLC 2020](http://splc2020.net/): <b>Artifacts Track Program Committee.</b> I reviewed 3-4 artifacts in the 24th International Systems and Software Product Line Conference, Montréal, Canada, October 19 - 23, 2020 <br />
 

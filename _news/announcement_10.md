@@ -5,10 +5,10 @@ inline: true
 a_tweet: https://twitter.com/vamosconf/status/1619040761416400897?s=20&t=fzg3f6qBJNAuE6ozHHdziQ
 ---
 
-I reveived a 
+I reveived a 🎉
 <a href="https://twitter.com/vamosconf/status/1619040761416400897?s=20&t=fzg3f6qBJNAuE6ozHHdziQ" style="color: orange;">
     Distinguished Reviewer Award 
-</a>
+</a> 🎉
 from the 17th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS), 2023.
 
 {% twitter https://twitter.com/vamosconf/status/1619040761416400897?s=20&t=fzg3f6qBJNAuE6ozHHdziQ maxwidth=500 %}

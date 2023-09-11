@@ -81,7 +81,7 @@ nav_order: 4
       <li class="list-group-item"><b>Hours:</b> The courses were intensive, within 3 weeks and 8 hours per day. </li>
       <li class="list-group-item"><b>Participants:</b> They were diverse and in groups between 15-30 persons.</li>
       <li class="list-group-item"><b>Purpose:</b> The course program consisted of the major start-up topics, such as: personal entrepreneurial characteristics, business idea generation, market share and marketing strategy, organizational management, basic finance, including cash flow and profit loss calculation, financing plan and investment.</li>
-      <li class="list-group-item"><b>My competences:</b> <a href="../assets/Certificates_Awards_01.pdf">Here</a> is my certificate of competence as CEFE Trainer, after 200 hours of training.</li>
+      <li class="list-group-item"><b>My competences:</b> <a href="../assets/pdf/CEFEcompetences.pdf">Here</a> is my certificate of competence as CEFE Trainer, after 200 hours of training.</li>
     </ul>
   </div>
 </div>

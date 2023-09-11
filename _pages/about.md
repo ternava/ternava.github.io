@@ -21,7 +21,7 @@ I am a Computer Scientist with a background in academia and industry. My journey
 In 2017, I earned a Ph.D. in Computer Engineering specializing in [<em>Handling Variability at the Code Level</em>](https://theses.hal.science/tel-01720323/document) from [Université Côte d'Azur](https://univ-cotedazur.eu/) in France under the supervision of Prof. [Philippe Collet](https://www.i3s.unice.fr/Philippe_Collet/). Subsequently, I spent two years as a Post-Doctoral Researcher at [Sorbonne Université](https://www.sorbonne-universite.fr/en) in Paris, continuing my research on Software Variability and co-leading an [EU project](https://itea4.org/project/revamp2.html) on Round-trip Engineering and Variability Management.
 
 From October 2020 to August 2023, I worked as a Research Engineer at [Université de Rennes 1](https://www.univ-rennes1.fr/) in France, focusing in Software Variability, Software Build, and Debloating highly-configurable software systems.
-My combination of academic and practical experience contributes to my ongoing growth and effectiveness in the field of software engineering, where I continue to learn and contribute.
+My academic and practical background supports my ongoing development in the field of software engineering, where I continue to both learn and contribute.
 
 <!-- My unique blend of academic knowledge and practical experience makes me a valuable asset in the field of software engineering. -->
 

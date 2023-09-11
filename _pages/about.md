@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle:   
-      <p class="affiliation">Software Engineering Researcher | Developer | PhD in Software Engineering | IT Team Leader | Endurance Runner</p>
+      <p class="affiliation">Software Engineering Researcher | Developer | PhD in Computer Engineering | IT Team Leader | Endurance Runner</p>
 
 profile:
   align: right

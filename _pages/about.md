@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Computer Scientist with a background in academia and industry. My journey began as an Assistant Lecturer at [Iliria College](https://uiliria.org/) in Kosova during my Master's, followed by a significant role founding and leading the IT team at [Albi Group](http://www.albigroup.com/?lang=en), a Product Distribution Company in Kosova, for 6.5 years.
+I am a Computer Scientist with a background in academia and industry. My journey began as an Assistant Lecturer at [Iliria College](https://uiliria.org/) in Kosova during my Master's, followed by a significant role founding and leading the IT team at [Albi Group](https://albimall.com/), a Product Distribution Company in Kosova, for 6.5 years.
 
 In 2017, I earned a Ph.D. in Computer Engineering specializing in [<em>Handling Variability at the Code Level</em>](https://theses.hal.science/tel-01720323/document) from [Université Côte d'Azur](https://univ-cotedazur.eu/) in France under the supervision of Prof. [Philippe Collet](https://www.i3s.unice.fr/Philippe_Collet/). Subsequently, I spent two years as a Post-Doctoral Researcher at [Sorbonne Université](https://www.sorbonne-universite.fr/en) in Paris, continuing my research on Software Variability and co-leading a work package in an [EU project](https://itea4.org/project/revamp2.html) on Round-trip Engineering and Variability Management.
 

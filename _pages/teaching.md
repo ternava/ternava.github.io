@@ -2,28 +2,30 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I have over 3.3 years of teaching experience.
+# description: I have over 3.3 years of teaching experience.
 nav: true
 nav_order: 4
 ---
 
 <!--courses tought, plain version-->
 
-## courses tought
+## courses tought during 2023/2024
 
-<b>INF112: "Object oriented programming in Java"</b>
+Total teaching service: 14 hours + 2 hours = <b>16 hours</b> x 1.5h.
 
-- Period: 28/02/2024 - 10/04/2024
-- Lectures (CM) + Design exercise (TD) / 2 + Practical work (TP) /2 + Evaluation. 7 hours (CM) + 1 hour (TD) + 6 hours (TP).
-- Level + Nr. of students: ING 1A, 36 students (course in English)
-- Main responsible: Dr. Dominique Blouin
+<b>INF112: "Object Oriented Programming in Java"</b>
 
-<b>SLR201 - S1P1 - A1: "Programmation Avancée et Gestion de Projet (en Java)"</b>
+* Period: 28/02/2024 - 10/04/2024
+* Lectures: 7 hours (CM) + 1 hour (TD) + 6 hours (TP) + Evaluation
+* Level + Nr. of students: ING 1A, 36 students (course in English)
+* Main responsible(s): Dr. Dominique Blouin
 
-- Period: 11/09/2024 - 15/11/2024 (23/09/2024)
-- Lectures (CM): 1.5 hours (CM) + 1.5 hours (TP).
-- Level + Nr. of students: ING 2A, 36 students (course in English)
-- Main responsible: Dr. Dominique Blouin, Dr. Ada Dansciencieu
+<b>SLR201: "Advanced Programming and Project Management (in Java)"</b>
+
+* Period: 11/09/2024 - 15/11/2024 (23/09/2024)
+* Lectures: 1.5 hours (CM) + 1.5 hours (TP)
+* Level + Nr. of students: ING 2A, 36 students (course in English)
+* Main responsible(s): Dr. Dominique Blouin, Dr. Ada Dansciencieu
 
 <!--courses tought-->
 <!--

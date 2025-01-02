@@ -31,7 +31,7 @@ My services, leadership, and volunteering activities for the research community.
 
 <b>Program Committee Member</b>
 
-* 2025: [SPLC 2025](https://2025.splc.net/), [ICSR 2025](https://conf.researchr.org/committee/icsr-2025/icsr-2025-papers-program-committee), [VaMoS 2025](https://familiar-project.github.io/VaMoS2025/program-committee/)
+* 2025: [MSR 2025-FOSS Award](https://2025.msrconf.org/track/msr-2025-foss-award), [SPLC 2025](https://2025.splc.net/), [ICSR 2025](https://conf.researchr.org/committee/icsr-2025/icsr-2025-papers-program-committee), [VaMoS 2025](https://familiar-project.github.io/VaMoS2025/program-committee/)
 
 * 2024: [SPLC 2024](https://2024.splc.net/program-committees/), [ICSR 2024](https://cyprusconferences.org/icsr2024/program-committee/)
 

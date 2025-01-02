@@ -31,16 +31,20 @@ My services, leadership, and volunteering activities for the research community.
 
 <b>Program Committee Member</b>
 
+* 2025: [SPLC 2025](https://2025.splc.net/), [ICSR 2025](https://conf.researchr.org/committee/icsr-2025/icsr-2025-papers-program-committee), [VaMoS 2025](https://familiar-project.github.io/VaMoS2025/program-committee/)
+
 * 2024: [SPLC 2024](https://2024.splc.net/program-committees/), [ICSR 2024](https://cyprusconferences.org/icsr2024/program-committee/)
 
 * 2023: [VaMoS 2023](https://vamos2023.sdu.dk/)
 
 * 2022: [VariVolution 2022](https://sites.google.com/view/varivolution2022), [ICSR 2022](https://icsr2022v2.wp.imt.fr/)
 
-* 2020: [SPLC 2020](http://splc2020.net/).
+* 2020: [SPLC 2020](http://splc2020.net/)
 
 
 <b>Reviewer</b>
+
+* 2025: [SPLC 2025](https://2025.splc.net/), [ICSR 2025](https://conf.researchr.org/committee/icsr-2025/icsr-2025-papers-program-committee), [VaMoS 2025](https://familiar-project.github.io/VaMoS2025/program-committee/), [AEiC 2025](https://www.ada-europe.org/conference2025/chairs.html)
 
 * 2024: [JSS 2024](https://www.sciencedirect.com/journal/journal-of-systems-and-softwar), [JOT 2024](https://www.jot.fm/), [TOSEM 2024](https://dl.acm.org/journal/tosem), [SPLC 2024](https://2024.splc.net/program-committees/), [ICSR 2024](https://cyprusconferences.org/icsr2024/program-committee/), [MODEVAR 2024](https://modevar.github.io/)
 

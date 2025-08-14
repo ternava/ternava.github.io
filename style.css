@@ -1,0 +1,34 @@
+body {
+  font-family: monospace;
+  max-width: 80ch;
+  margin: 2rem auto 2rem 2rem; /* top right bottom left */
+  line-height: 1.4;
+  background: #fff;
+  color: #000;
+}
+h1, h2 {
+  margin-top: 1.5rem;
+}
+nav {
+  margin-bottom: 2rem;
+}
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: #006;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+main {
+  margin-top: 1rem;
+}
+
+/* Prevent underline on the main title link */
+h1 a {
+  text-decoration: none;
+  color: inherit;
+}
+h1 a:hover {
+  text-decoration: none;
+}

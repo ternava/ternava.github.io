@@ -4,24 +4,72 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Publications – Xhevahire Tërnava</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- load the generated publications data -->
+  <script src="publications-data.js"></script>
 </head>
 <body>
   <header>
     <h1><a href="index.html">Xhevahire Tërnava</a></h1>
+    <p class="affiliation">
+      Software Engineering Researcher | Developer | Associate Professor | PhD in Computer Engineering |
+      IT Team Leader | Endurance Runner
+    </p>
   </header>
   <nav>
-    <a href="index.html">Home</a>
     <a href="about.html">About</a>
-    <a href="projects.html">Projects</a>
+    <a href="index.html">News</a>
+    <!-- <a href="projects.html">Projects</a> -->
     <a href="publications.html">Publications</a>
     <a href="services.html">Services</a>
     <a href="teaching.html">Teaching</a>
   </nav>
+  <hr class="nav-divider">
   <h2>Publications</h2>
 
   <main>
-    <!-- YOUR PUBLICATIONS CONTENT HERE -->
+    <div id="bib-list">Loading publications…</div>
+    <script>
+      // Group by year
+      const byYear = {};
+      PUBLICATIONS.forEach(p => {
+        const y = p.year || 'Unknown';
+        if (!byYear[y]) byYear[y] = [];
+        byYear[y].push(p);
+      });
+      // Sort years descending
+      const years = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
+      // Build HTML
+      let html = '';
+      years.forEach(y => {
+        html += `<h3>${y}</h3><ul>`;
+        byYear[y].forEach(p => {
+          // split on "and" and flip "Last, First" → "First Last"
+          const authors = p.author
+            .split(/\s+and\s+/)
+            .map(name => {
+              const parts = name.trim().split(/\s*,\s*/);
+              return parts.length === 2
+                ? `${parts[1]} ${parts[0]}`
+                : name.trim();
+            })
+            .join(', ');
+
+          html += `<li><strong>${p.title}</strong>. ${authors}. (${p.abbr})` +
+                  (p.pdf ? ` <a href="${p.pdf}" target="_blank">PDF</a>` : '') +
+                  (p.doi ? ` <a href="https://doi.org/${p.doi}" target="_blank">DOI</a>` : '') +
+                  (p.award && p.alink
+                    ? ` <a href="${p.alink}" class="award-link" target="_blank">${p.award}</a>`
+                    : '') +
+                  `</li>`;
+        });
+        html += '</ul>';
+      });
+      document.getElementById('bib-list').innerHTML = html;
+    </script>
   </main>
+  <footer>
+    © 2025 Xhevahire Tërnava
+  </footer>
 </body>
 </html>

@@ -1,0 +1,23 @@
+{
+  "name": "ternava.github.io",
+  "version": "1.0.0",
+  "description": "My personal site hosted with GitHub Pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ternava/ternava.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ternava/ternava.github.io/issues"
+  },
+  "homepage": "https://github.com/ternava/ternava.github.io#readme",
+  "dependencies": {
+    "bibtex-parse-js": "^0.0.24"
+  }
+}

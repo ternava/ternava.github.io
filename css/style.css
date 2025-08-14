@@ -1,0 +1,103 @@
+body {
+  font-family: monospace;
+  max-width: 80ch;
+  margin: 2rem auto 2rem 2rem; /* top right bottom left */
+  line-height: 1.4;
+  background: #fff;
+  color: #000;
+}
+h1, h2 {
+  margin-top: 1.5rem;
+}
+nav {
+  margin-bottom: 2rem;
+}
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: #006;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+main {
+  margin-top: 1rem;
+}
+
+/* Prevent underline on the main title link */
+h1 a {
+  text-decoration: none;
+  color: inherit;
+}
+h1 a:hover {
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ccc;
+  text-align: left;
+  font-size: 0.8rem;   /* reduce to a smaller, less prominent size */
+  color: #555;
+}
+
+/* divider line below navigation */
+hr.nav-divider {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 0 0 1rem;
+}
+
+/* highlight Best Paper Award links */
+.award-link {
+  color: orange;
+}
+
+/* About page layout */
+.about-content {
+  display: flex;
+  align-items: flex-start;
+}
+.about-text {
+  flex: 1;
+}
+.about-image img {
+  max-width: 200px;           /* smaller by default */
+  margin-top: 1rem;
+  margin-left: 1rem;
+  border-radius: 0;
+  transition: transform 0.3s ease;  /* animate size change */
+}
+/* enlarge on hover or focus (and click) */
+.about-image img:hover,
+.about-image img:focus,
+.about-image img:active {
+  transform: scale(2);
+}
+.about-image figure {
+  margin: 0;
+  position: relative;
+  display: inline-block;
+}
+.about-image figcaption {
+  position: absolute;
+  bottom: 0;   /* lift caption slightly above the bottom edge */
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-size: 0.75rem;
+  padding: 0.25rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.about-image figure:hover figcaption {
+  opacity: 1;
+}
+
+/* make the News link orange */
+nav a[href="index.html"] {
+  color: orange;
+}

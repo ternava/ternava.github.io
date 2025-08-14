@@ -1,0 +1,232 @@
+window.PUBLICATIONS = [
+  {
+    "title": "Software product line extraction from variability-rich systems: The Robocode case study",
+    "author": "Martinez, Jabier and Tërnava, Xhevahire and Ziadi, Tewfik",
+    "abbr": "SPLC18",
+    "year": "2018",
+    "pdf": "https://hal.sorbonne-universite.fr/hal-01832650/document",
+    "doi": "10.1145/3233027.3233038",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Feature location benchmark with ArgoUML SPL",
+    "author": "Martinez, Jabier and Ordonez, Nicolas and Tërnava, Xhevahire and Ziadi, Tewfik and Aponte, Jairo and Figueiredo, Eduardo and Valente, Marco",
+    "abbr": "SPLC18",
+    "year": "2018",
+    "pdf": "https://hal.sorbonne-universite.fr/hal-01722316/document",
+    "doi": "10.1145/3233027.3236402",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Teaching projects and research objectives in SPL extraction",
+    "author": "Ziadi, Tewfik and Martinez, Jabier and Tërnava, Xhevahire",
+    "abbr": "SPLC18",
+    "year": "2018",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3236405.3237205",
+    "doi": "10.1145/3236405.3237205",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Tracing imperfectly modular variability in software product line implementation",
+    "author": "Tërnava, Xhevahire and Collet, Philippe",
+    "abbr": "ICSR17",
+    "year": "2017",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-01486216/document",
+    "doi": "10.1007/978-3-319-56856-0_8",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Early consistency checking between specification and implementation variabilities",
+    "author": "Tërnava, Xhevahire and Collet, Philippe",
+    "abbr": "SPLC17",
+    "year": "2017",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-01699878/document",
+    "doi": "10.1145/3106195.3106209",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "On the diversity of capturing variability at the implementation level",
+    "author": "Tërnava, Xhevahire and Collet, Philippe",
+    "abbr": "SPLC17",
+    "year": "2017",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-01699883/document",
+    "doi": "10.1145/3109729.3109733",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Handling variability at the code level: modeling, tracing and checking consistency",
+    "author": "Tërnava, Xhevahire",
+    "abbr": "Ph.D. Thesis",
+    "year": "2017",
+    "pdf": "https://tel.archives-ouvertes.fr/tel-01720323/document",
+    "doi": "",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "symfinder: A toolchain for the identification and visualization of object-oriented variability implementations",
+    "author": "Mortara, Johann and Tërnava, Xhevahire and Collet, Philippe",
+    "abbr": "SPLC19",
+    "year": "2019",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-02342730/document",
+    "doi": "10.1145/3307630.3342394",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Identifying and visualizing variability in object-oriented variability-rich systems",
+    "author": "Tërnava, Xhevahire and Mortara, Johann and Collet, Philippe",
+    "abbr": "SPLC19",
+    "year": "2019",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-02339296/document",
+    "doi": "10.1145/3336294.3336311",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Mapping features to automatically identified object-oriented variability implementations: The case of ArgoUML-SPL",
+    "author": "Mortara, Johann and Tërnava, Xhevahire and Collet, Philippe",
+    "abbr": "VaMoS20",
+    "year": "2020",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-02421353/document",
+    "doi": "10.1145/3377024.3377037",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Identifying and Mapping Implemented Variabilities in Java and C++ systems using symfinder",
+    "author": "Mortara, Johann and Collet, Philippe and Tërnava, Xhevahire",
+    "abbr": "SPLC20",
+    "year": "2020",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-02908531/document",
+    "doi": "10.1145/3382026.3431251",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "A framework for managing the imperfect modularity of variability implementations",
+    "author": "Tërnava, Xhevahire and Collet, Philippe",
+    "abbr": "COLA20",
+    "year": "2020",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-02951745/document",
+    "doi": "10.1016/j.cola.2020.100998",
+    "award": "First Runner-Up for the COLA Best Paper Award 2020",
+    "alink": "https://www.sciencedirect.com/journal/journal-of-computer-languages/about/news/2020-best-paper-award-journal-of-computer-languages"
+  },
+  {
+    "title": "The interplay of compile-time and run-time options for performance prediction",
+    "author": "Lesoil, Luc and Acher, Mathieu and Tërnava, Xhevahire and Blouin, Arnaud and Jézéquel, Jean-Marc",
+    "abbr": "SPLC21",
+    "year": "2021",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-03286127/document",
+    "doi": "10.1145/3461001.3471149",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Extending the identification of object-oriented variability implementations using usage relationships",
+    "author": "Mortara, Johann and Tërnava, Xhevahire and Collet, Philippe and Pinna-Dery, Anne-Marie",
+    "abbr": "SPLC21",
+    "year": "2021",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-03284626/document",
+    "doi": "10.1145/3461002.3473943",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Scratching the surface of./configure: Learning the effects of compile-time options on binary size and gadgets",
+    "author": "Tërnava, Xhevahire and Acher, Mathieu and Lesoil, Luc and Blouin, Arnaud and Jézéquel, Jean-Marc",
+    "abbr": "ICSR22",
+    "year": "2022",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-03627246/document",
+    "doi": "10.1007/978-3-031-08129-3_3",
+    "award": "Best Paper Award",
+    "alink": "https://twitter.com/GPerrouin/status/1537799049000140800?s=20&t=1QNCn1d3G5EJCBbOX-byAw"
+  },
+  {
+    "title": "On the benefits and limits of incremental build of software configurations: An exploratory study",
+    "author": "Randrianaina, Georges Aaron and Tërnava, Xhevahire and Khelladi, Djamel Eddine and Acher, Mathieu",
+    "abbr": "ICSE22",
+    "year": "2022",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-03547219v3/document",
+    "doi": "10.1145/3510457.3513035",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Identification and visualization of variability implementations in object-oriented variability-rich systems: A symmetry-based approach",
+    "author": "Tërnava, Xhevahire and Mortara, Johann and Collet, Philippe and Berre, Daniel Le",
+    "abbr": "ASE22",
+    "year": "2022",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-03593967/document",
+    "doi": "10.1007/s10515-022-00329-x",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "On the interaction of feature toggles",
+    "author": "Tërnava, Xhevahire and Lesoil, Luc and Randrianaina, Georges Aaron and Khelladi, Djamel Eddine and Acher, Mathieu",
+    "abbr": "VaMoS22",
+    "year": "2022",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-03527250v2/document",
+    "doi": "10.1145/3510466.3510485",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "A call for removing variability",
+    "author": "Acher, Mathieu and Lesoil, Luc and Randrianaina, Georges Aaron and Tërnava, Xhevahire and Zendra, Olivier",
+    "abbr": "VaMoS23",
+    "year": "2023",
+    "pdf": "https://hal.science/hal-03882594/document",
+    "doi": "10.1145/3571788.3571801",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Specialization of run-time configuration space at compile-time: An exploratory study",
+    "author": "Tërnava, Xhevahire and Acher, Mathieu and Combemale, Benoit",
+    "abbr": "arXiv22",
+    "year": "2022",
+    "pdf": "https://arxiv.org/pdf/2210.14082.pdf",
+    "doi": "10.48550/arXiv.2210.14082",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Specialization of run-time configuration space at compile-time: An exploratory study",
+    "author": "Tërnava, Xhevahire and Acher, Mathieu and Combemale, Benoit",
+    "abbr": "SAC23",
+    "year": "2023",
+    "pdf": "https://hal.archives-ouvertes.fr/hal-03916459",
+    "doi": "10.1145/3555776.3578613",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "On the effect of feature reduction on energy consumption: An exploratory study",
+    "author": "Tërnava, Xhevahire and Lefeuvre, Romain and Perez, Quentin and Khelladi, Djamel Eddine and Acher, Mathieu and Combemale, Benoit",
+    "abbr": "SPLC25",
+    "year": "2025",
+    "pdf": "https://hal.science/hal-05166140/",
+    "doi": "10.1145/3744915.3748463",
+    "award": "",
+    "alink": ""
+  },
+  {
+    "title": "Small yet configurable: Unveiling null variability in software",
+    "author": "Tërnava, Xhevahire and Randrianaina, Georges Aaron and Lesoil, Luc and Acher, Mathieu",
+    "abbr": "preprint",
+    "year": "2025",
+    "pdf": "https://hal.science/hal-05097580",
+    "doi": "",
+    "award": "",
+    "alink": ""
+  }
+];

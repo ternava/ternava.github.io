@@ -7,7 +7,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.sorbonne-universite.fr/hal-01832650/document",
     "doi": "10.1145/3233027.3233038",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": "https://github.com/but4reuse/RobocodeSPL_teaching"
   },
   {
     "title": "Feature location benchmark with ArgoUML SPL",
@@ -17,7 +18,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.sorbonne-universite.fr/hal-01722316/document",
     "doi": "10.1145/3233027.3236402",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": "https://github.com/but4reuse/argouml-spl-benchmark"
   },
   {
     "title": "Teaching projects and research objectives in SPL extraction",
@@ -27,7 +29,8 @@ window.PUBLICATIONS = [
     "pdf": "https://dl.acm.org/doi/pdf/10.1145/3236405.3237205",
     "doi": "10.1145/3236405.3237205",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "Tracing imperfectly modular variability in software product line implementation",
@@ -37,7 +40,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-01486216/document",
     "doi": "10.1007/978-3-319-56856-0_8",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "Early consistency checking between specification and implementation variabilities",
@@ -47,7 +51,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-01699878/document",
     "doi": "10.1145/3106195.3106209",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "On the diversity of capturing variability at the implementation level",
@@ -57,7 +62,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-01699883/document",
     "doi": "10.1145/3109729.3109733",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": "https://github.com/ternava/expressions_spl/wiki"
   },
   {
     "title": "Handling variability at the code level: modeling, tracing and checking consistency",
@@ -67,7 +73,8 @@ window.PUBLICATIONS = [
     "pdf": "https://tel.archives-ouvertes.fr/tel-01720323/document",
     "doi": "",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "symfinder: A toolchain for the identification and visualization of object-oriented variability implementations",
@@ -77,7 +84,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-02342730/document",
     "doi": "10.1145/3307630.3342394",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "Identifying and visualizing variability in object-oriented variability-rich systems",
@@ -87,7 +95,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-02339296/document",
     "doi": "10.1145/3336294.3336311",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "Mapping features to automatically identified object-oriented variability implementations: The case of ArgoUML-SPL",
@@ -97,7 +106,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-02421353/document",
     "doi": "10.1145/3377024.3377037",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": "https://deathstar3.github.io/symfinder-demo/vamos2020/"
   },
   {
     "title": "Identifying and Mapping Implemented Variabilities in Java and C++ systems using symfinder",
@@ -107,7 +117,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-02908531/document",
     "doi": "10.1145/3382026.3431251",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "A framework for managing the imperfect modularity of variability implementations",
@@ -117,7 +128,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-02951745/document",
     "doi": "10.1016/j.cola.2020.100998",
     "award": "First Runner-Up for the COLA Best Paper Award 2020",
-    "alink": "https://www.sciencedirect.com/journal/journal-of-computer-languages/about/news/2020-best-paper-award-journal-of-computer-languages"
+    "alink": "https://www.sciencedirect.com/journal/journal-of-computer-languages/about/news/2020-best-paper-award-journal-of-computer-languages",
+    "supp": "https://ternava.github.io/vm-dsl/"
   },
   {
     "title": "The interplay of compile-time and run-time options for performance prediction",
@@ -127,7 +139,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-03286127/document",
     "doi": "10.1145/3461001.3471149",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "Extending the identification of object-oriented variability implementations using usage relationships",
@@ -137,7 +150,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-03284626/document",
     "doi": "10.1145/3461002.3473943",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "Scratching the surface of./configure: Learning the effects of compile-time options on binary size and gadgets",
@@ -147,7 +161,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-03627246/document",
     "doi": "10.1007/978-3-031-08129-3_3",
     "award": "Best Paper Award",
-    "alink": "https://twitter.com/GPerrouin/status/1537799049000140800?s=20&t=1QNCn1d3G5EJCBbOX-byAw"
+    "alink": "https://twitter.com/GPerrouin/status/1537799049000140800?s=20&t=1QNCn1d3G5EJCBbOX-byAw",
+    "supp": "https://github.com/diverse-project/confsurface"
   },
   {
     "title": "On the benefits and limits of incremental build of software configurations: An exploratory study",
@@ -157,7 +172,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-03547219v3/document",
     "doi": "10.1145/3510457.3513035",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": "https://zenodo.org/record/5917570#.YrHnX9JBxB8"
   },
   {
     "title": "Identification and visualization of variability implementations in object-oriented variability-rich systems: A symmetry-based approach",
@@ -167,7 +183,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-03593967/document",
     "doi": "10.1007/s10515-022-00329-x",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "On the interaction of feature toggles",
@@ -177,7 +194,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-03527250v2/document",
     "doi": "10.1145/3510466.3510485",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": "https://github.com/llesoil/poc_ftm"
   },
   {
     "title": "A call for removing variability",
@@ -187,7 +205,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.science/hal-03882594/document",
     "doi": "10.1145/3571788.3571801",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "Specialization of run-time configuration space at compile-time: An exploratory study",
@@ -197,7 +216,8 @@ window.PUBLICATIONS = [
     "pdf": "https://arxiv.org/pdf/2210.14082.pdf",
     "doi": "10.48550/arXiv.2210.14082",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "Specialization of run-time configuration space at compile-time: An exploratory study",
@@ -207,7 +227,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.archives-ouvertes.fr/hal-03916459",
     "doi": "10.1145/3555776.3578613",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "On the effect of feature reduction on energy consumption: An exploratory study",
@@ -217,7 +238,8 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.science/hal-05166140/",
     "doi": "10.1145/3744915.3748463",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   },
   {
     "title": "Small yet configurable: Unveiling null variability in software",
@@ -227,6 +249,7 @@ window.PUBLICATIONS = [
     "pdf": "https://hal.science/hal-05097580",
     "doi": "",
     "award": "",
-    "alink": ""
+    "alink": "",
+    "supp": ""
   }
 ];

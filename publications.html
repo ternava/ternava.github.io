@@ -6,7 +6,7 @@
   <title>Publications – Xhevahire Tërnava</title>
   <link rel="stylesheet" href="css/style.css">
   <!-- load the generated publications data -->
-  <script src="publications-data.js"></script>
+  <script src="js/publications-data.js"></script>
 </head>
 <body>
   <header>
@@ -26,7 +26,13 @@
   </nav>
   <hr class="nav-divider">
   <h2>Publications</h2>
-
+  <div class="profiles">
+    <p>
+      <a href="https://dblp.org/pid/199/5434" target="_blank">DBLP</a>,
+      <a href="https://scholar.google.com/citations?user=hZ-TjTcAAAAJ&hl=en" target="_blank">Google Scholar</a>,
+      <a href="https://orcid.org/0000-0002-4317-2764" target="_blank">ORCID</a>
+    </p>
+  </div>
   <main>
     <div id="bib-list">Loading publications…</div>
     <script>
@@ -56,8 +62,9 @@
             .join(', ');
 
           html += `<li><strong>${p.title}</strong>. ${authors}. (${p.abbr})` +
-                  (p.pdf ? ` <a href="${p.pdf}" target="_blank">PDF</a>` : '') +
-                  (p.doi ? ` <a href="https://doi.org/${p.doi}" target="_blank">DOI</a>` : '') +
+                  (p.pdf  ? ` <a href="${p.pdf}" target="_blank">PDF</a>` : '') +
+                  (p.doi  ? ` <a href="https://doi.org/${p.doi}" target="_blank">DOI</a>` : '') +
+                  (p.supp ? ` <a href="${p.supp}" target="_blank">SUPP</a>` : '') +
                   (p.award && p.alink
                     ? ` <a href="${p.alink}" class="award-link" target="_blank">${p.award}</a>`
                     : '') +

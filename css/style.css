@@ -54,6 +54,14 @@ hr.nav-divider {
   color: orange;
 }
 
+/* highlight Distinguished Reviewer Award link */
+a.award-link {
+  color: orange !important;
+}
+a.award-link:hover {
+  color: darkorange;
+}
+
 /* About page layout */
 .about-content {
   display: flex;

@@ -1,30 +1,34 @@
-My personal site hosted with GitHub Pages.
+# My Personal Site
 
-## Local Preview
+This repository powers my personal site, hosted on GitHub Pages.
 
-The Publications page uses `fetch()` to load `papers.bib`, so you must run a local HTTP server. Here are two options:
+### Previewing Locally
 
-1. Python 3 built‐in server:
-   ```bash
-   cd /home/ternava/Documents/GitHub/ternava.github.io
-   python3 -m http.server 8000
-   ```
-2. Node.js http-server (with CORS):
-   ```bash
-   npm install --global http-server
-   cd /home/ternava/Documents/GitHub/ternava.github.io
-   http-server -p 8000 --cors
-   ```
+Because the Publications page fetches `papers.bib`, I’ll need a simple HTTP server:
 
-3. Generate the publications‐data.js file:
-   ```bash
-   node scripts/generate-publications.js
-   ```
-4. Start the HTTP server:
-   ```bash
-   python3 -m http.server 8000
-   ```
+Option 1: **Python 3**  
+```bash
+cd ../ternava.github.io
+python3 -m http.server 8000
+```
 
-Then open in your browser:  
+Option 2: **Node.js** (with CORS support)  
+```bash
+npm install --global http-server
+cd ../ternava.github.io
+http-server -p 8000 --cors
+```
+
+Once the server is running, I should point the browser to  
 http://localhost:8000/publications.html  
-All other pages will work the same way.
+—other pages follow the same pattern.
+
+### Regenerating Publication Data
+
+After updating `papers.bib`, I need to rebuild the JSON file used by the Publications page:
+
+```bash
+node scripts/generate-publications.js
+```
+
+Then I should reload my local server to see the changes.

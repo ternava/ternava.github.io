@@ -2,6 +2,7 @@
 
 This repository powers my personal site, hosted on GitHub Pages.
 
+---
 ### Previewing Locally
 
 Because the Publications page fetches `papers.bib`, I’ll need a simple HTTP server:

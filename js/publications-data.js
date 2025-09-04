@@ -8,7 +8,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3233027.3233038",
     "award": "",
     "alink": "",
-    "supp": "https://github.com/but4reuse/RobocodeSPL_teaching"
+    "supp": "https://github.com/but4reuse/RobocodeSPL_teaching",
+    "slides": "",
+    "html": "https://doi.org/10.1145/3233027.3233038"
   },
   {
     "title": "Feature location benchmark with ArgoUML SPL",
@@ -19,7 +21,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3233027.3236402",
     "award": "",
     "alink": "",
-    "supp": "https://github.com/but4reuse/argouml-spl-benchmark"
+    "supp": "https://github.com/but4reuse/argouml-spl-benchmark",
+    "slides": "",
+    "html": "https://doi.org/10.1145/3233027.3236402"
   },
   {
     "title": "Teaching projects and research objectives in SPL extraction",
@@ -30,7 +34,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3236405.3237205",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "",
+    "html": "https://doi.org/10.1145/3236405.3237205"
   },
   {
     "title": "Tracing imperfectly modular variability in software product line implementation",
@@ -41,7 +47,9 @@ window.PUBLICATIONS = [
     "doi": "10.1007/978-3-319-56856-0_8",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "",
+    "html": "https://doi.org/10.1007/978-3-319-56856-0_8"
   },
   {
     "title": "Early consistency checking between specification and implementation variabilities",
@@ -52,7 +60,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3106195.3106209",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "",
+    "html": "https://doi.org/10.1145/3106195.3106209"
   },
   {
     "title": "On the diversity of capturing variability at the implementation level",
@@ -63,7 +73,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3109729.3109733",
     "award": "",
     "alink": "",
-    "supp": "https://github.com/ternava/expressions_spl/wiki"
+    "supp": "https://github.com/ternava/expressions_spl/wiki",
+    "slides": "",
+    "html": "https://doi.org/10.1145/3109729.3109733"
   },
   {
     "title": "Handling variability at the code level: modeling, tracing and checking consistency",
@@ -74,7 +86,9 @@ window.PUBLICATIONS = [
     "doi": "",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "",
+    "html": "https://tel.archives-ouvertes.fr/tel-01720323/"
   },
   {
     "title": "symfinder: A toolchain for the identification and visualization of object-oriented variability implementations",
@@ -85,7 +99,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3307630.3342394",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "",
+    "html": "https://doi.org/10.1145/3307630.3342394"
   },
   {
     "title": "Identifying and visualizing variability in object-oriented variability-rich systems",
@@ -96,7 +112,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3336294.3336311",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "",
+    "html": "https://doi.org/10.1145/3336294.3336311"
   },
   {
     "title": "Mapping features to automatically identified object-oriented variability implementations: The case of ArgoUML-SPL",
@@ -107,7 +125,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3377024.3377037",
     "award": "",
     "alink": "",
-    "supp": "https://deathstar3.github.io/symfinder-demo/vamos2020/"
+    "supp": "https://deathstar3.github.io/symfinder-demo/vamos2020/",
+    "slides": "",
+    "html": "https://doi.org/10.1145/3377024.3377037"
   },
   {
     "title": "Identifying and Mapping Implemented Variabilities in Java and C++ systems using symfinder",
@@ -118,7 +138,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3382026.3431251",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "https://www.youtube.com/watch?v=hkxuoc0Q2Rw",
+    "html": "https://doi.org/10.1145/3382026.3431251"
   },
   {
     "title": "A framework for managing the imperfect modularity of variability implementations",
@@ -129,7 +151,9 @@ window.PUBLICATIONS = [
     "doi": "10.1016/j.cola.2020.100998",
     "award": "First Runner-Up for the COLA Best Paper Award 2020",
     "alink": "https://www.sciencedirect.com/journal/journal-of-computer-languages/about/news/2020-best-paper-award-journal-of-computer-languages",
-    "supp": "https://ternava.github.io/vm-dsl/"
+    "supp": "https://ternava.github.io/vm-dsl/",
+    "slides": "",
+    "html": "https://www.sciencedirect.com/science/article/pii/S2590118420300587"
   },
   {
     "title": "The interplay of compile-time and run-time options for performance prediction",
@@ -140,7 +164,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3461001.3471149",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "",
+    "html": "https://doi.org/10.1145/3461001.3471149"
   },
   {
     "title": "Extending the identification of object-oriented variability implementations using usage relationships",
@@ -151,7 +177,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3461002.3473943",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "",
+    "html": "https://doi.org/10.1145/3461002.3473943"
   },
   {
     "title": "Scratching the surface of./configure: Learning the effects of compile-time options on binary size and gadgets",
@@ -162,7 +190,9 @@ window.PUBLICATIONS = [
     "doi": "10.1007/978-3-031-08129-3_3",
     "award": "Best Paper Award",
     "alink": "https://twitter.com/GPerrouin/status/1537799049000140800?s=20&t=1QNCn1d3G5EJCBbOX-byAw",
-    "supp": "https://github.com/diverse-project/confsurface"
+    "supp": "https://github.com/diverse-project/confsurface",
+    "slides": "",
+    "html": "https://doi.org/10.1007/978-3-031-08129-3_3"
   },
   {
     "title": "On the benefits and limits of incremental build of software configurations: An exploratory study",
@@ -173,7 +203,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3510457.3513035",
     "award": "",
     "alink": "",
-    "supp": "https://zenodo.org/record/5917570#.YrHnX9JBxB8"
+    "supp": "https://zenodo.org/record/5917570#.YrHnX9JBxB8",
+    "slides": "",
+    "html": "https://ieeexplore.ieee.org/document/9793946"
   },
   {
     "title": "Identification and visualization of variability implementations in object-oriented variability-rich systems: A symmetry-based approach",
@@ -184,7 +216,9 @@ window.PUBLICATIONS = [
     "doi": "10.1007/s10515-022-00329-x",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "",
+    "html": "https://doi.org/10.1007/s10515-022-00329-x"
   },
   {
     "title": "On the interaction of feature toggles",
@@ -195,7 +229,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3510466.3510485",
     "award": "",
     "alink": "",
-    "supp": "https://github.com/llesoil/poc_ftm"
+    "supp": "https://github.com/llesoil/poc_ftm",
+    "slides": "",
+    "html": "https://doi.org/10.1145/3510466.3510485"
   },
   {
     "title": "A call for removing variability",
@@ -206,7 +242,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3571788.3571801",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "VaMoS23_Presentation.pdf",
+    "html": "https://doi.org/10.1145/3571788.3571801"
   },
   {
     "title": "Specialization of run-time configuration space at compile-time: An exploratory study",
@@ -217,7 +255,9 @@ window.PUBLICATIONS = [
     "doi": "10.48550/arXiv.2210.14082",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "",
+    "html": "https://doi.org/10.48550/arXiv.2210.14082"
   },
   {
     "title": "Specialization of run-time configuration space at compile-time: An exploratory study",
@@ -228,7 +268,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3555776.3578613",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "",
+    "html": "https://doi.org/10.1145/3555776.3578613"
   },
   {
     "title": "On the effect of feature reduction on energy consumption: An exploratory study",
@@ -239,7 +281,9 @@ window.PUBLICATIONS = [
     "doi": "10.1145/3744915.3748463",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "supp/SPLC25-presentation.pdf",
+    "html": "https://doi.org/10.1145/3744915.3748463"
   },
   {
     "title": "Small yet configurable: Unveiling null variability in software",
@@ -250,6 +294,8 @@ window.PUBLICATIONS = [
     "doi": "",
     "award": "",
     "alink": "",
-    "supp": ""
+    "supp": "",
+    "slides": "",
+    "html": "https://hal.science/hal-05097580"
   }
 ];

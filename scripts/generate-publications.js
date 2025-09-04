@@ -17,6 +17,8 @@ const entries = rawEntries.map(entry => {
   const awardMatch  = entry.match(/award\s*=\s*{([^}]*)}/i);
   const alinkMatch  = entry.match(/alink\s*=\s*{([^}]*)}/i);
   const suppMatch   = entry.match(/supp\s*=\s*{([^}]*)}/i);
+  const slidesMatch = entry.match(/slides\s*=\s*{([^}]*)}/i);
+  const htmlMatch   = entry.match(/html\s*=\s*{([^}]*)}/i);
   return {
     title:  titleMatch  ? titleMatch[1]  : '',
     author: authorMatch ? authorMatch[1] : '',
@@ -26,7 +28,9 @@ const entries = rawEntries.map(entry => {
     doi:    doiMatch    ? doiMatch[1]    : '',
     award:  awardMatch  ? awardMatch[1]  : '',
     alink:  alinkMatch  ? alinkMatch[1]  : '',
-    supp:   suppMatch   ? suppMatch[1]   : ''
+    supp:   suppMatch   ? suppMatch[1]   : '',
+    slides: slidesMatch ? slidesMatch[1] : '',
+    html:   htmlMatch   ? htmlMatch[1]   : '',
   };
 });
 

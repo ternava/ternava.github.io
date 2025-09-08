@@ -109,3 +109,11 @@ a.award-link:hover {
 nav a[href="index.html"] {
   color: orange;
 }
+
+/* Highlight upcoming events */
+li.upcoming {
+  color: orange !important;
+}
+li.upcoming strong {
+  color: inherit !important;
+}

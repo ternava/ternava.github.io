@@ -191,7 +191,7 @@ window.PUBLICATIONS = [
     "award": "Best Paper Award",
     "alink": "https://twitter.com/GPerrouin/status/1537799049000140800?s=20&t=1QNCn1d3G5EJCBbOX-byAw",
     "supp": "https://github.com/diverse-project/confsurface",
-    "slides": "",
+    "slides": "supp/ICSR22-presentation.pdf",
     "html": "https://doi.org/10.1007/978-3-031-08129-3_3"
   },
   {
@@ -230,7 +230,7 @@ window.PUBLICATIONS = [
     "award": "",
     "alink": "",
     "supp": "https://github.com/llesoil/poc_ftm",
-    "slides": "",
+    "slides": "supp/VaMoS22-presentation.pdf",
     "html": "https://doi.org/10.1145/3510466.3510485"
   },
   {
@@ -243,21 +243,8 @@ window.PUBLICATIONS = [
     "award": "",
     "alink": "",
     "supp": "",
-    "slides": "VaMoS23_Presentation.pdf",
+    "slides": "supp/VaMoS23-presentation.pdf",
     "html": "https://doi.org/10.1145/3571788.3571801"
-  },
-  {
-    "title": "Specialization of run-time configuration space at compile-time: An exploratory study",
-    "author": "Tërnava, Xhevahire and Acher, Mathieu and Combemale, Benoit",
-    "abbr": "arXiv22",
-    "year": "2022",
-    "pdf": "https://arxiv.org/pdf/2210.14082.pdf",
-    "doi": "10.48550/arXiv.2210.14082",
-    "award": "",
-    "alink": "",
-    "supp": "",
-    "slides": "",
-    "html": "https://doi.org/10.48550/arXiv.2210.14082"
   },
   {
     "title": "Specialization of run-time configuration space at compile-time: An exploratory study",
@@ -269,7 +256,7 @@ window.PUBLICATIONS = [
     "award": "",
     "alink": "",
     "supp": "",
-    "slides": "",
+    "slides": "supp/SAC23-presentation.pdf",
     "html": "https://doi.org/10.1145/3555776.3578613"
   },
   {

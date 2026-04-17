@@ -294,7 +294,7 @@ window.PUBLICATIONS = [
     "doi": "",
     "award": "",
     "alink": "",
-    "supp": "",
+    "supp": "https://ternava.github.io/detog/",
     "slides": "",
     "html": "https://hal.science/view/index/docid/5593908"
   }

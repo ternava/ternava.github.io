@@ -284,5 +284,18 @@ window.PUBLICATIONS = [
     "supp": "",
     "slides": "",
     "html": "https://hal.science/hal-05097580"
+  },
+  {
+    "title": "Feature toggle dynamics in large-scale systems: Prevalence, growth, lifespan, and benchmarking",
+    "author": "Tërnava, Xhevahire",
+    "abbr": "VARIABILITY2026",
+    "year": "2026",
+    "pdf": "https://hal.science/hal-05593908",
+    "doi": "",
+    "award": "",
+    "alink": "",
+    "supp": "",
+    "slides": "",
+    "html": "https://hal.science/view/index/docid/5593908"
   }
 ];

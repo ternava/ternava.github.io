@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Publications – Xhevahire Tërnava</title>
+  <title>Publications - Xhevahire Tërnava</title>
   <link rel="stylesheet" href="css/style.css">
   <!-- load the generated publications data -->
   <script src="js/publications-data.js"></script>
@@ -50,7 +50,7 @@
       years.forEach(y => {
         html += `<h3>${y}</h3><ul>`;
         byYear[y].forEach(p => {
-          // split on "and" and flip "Last, First" → "First Last"
+          // split on "and" and flip "Last, First" -> "First Last"
           const authors = p.author
             .split(/\s+and\s+/)
             .map(name => {

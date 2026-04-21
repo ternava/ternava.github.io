@@ -290,12 +290,12 @@ window.PUBLICATIONS = [
     "author": "Tërnava, Xhevahire",
     "abbr": "VARIABILITY2026",
     "year": "2026",
-    "pdf": "https://hal.science/hal-05593908",
+    "pdf": "https://arxiv.org/pdf/2604.15872",
     "doi": "",
     "award": "",
     "alink": "",
-    "supp": "https://ternava.github.io/detog/",
+    "supp": "https://zenodo.org/records/18773812",
     "slides": "",
-    "html": "https://hal.science/view/index/docid/5593908"
+    "html": "https://ternava.github.io/detog/"
   }
 ];

@@ -36,4 +36,4 @@ const entries = rawEntries.map(entry => {
 
 const out = 'window.PUBLICATIONS = ' + JSON.stringify(entries, null, 2) + ';';
 fs.writeFileSync('js/publications-data.js', out);
-console.log('→ publications-data.js generated');
+console.log('-> publications-data.js generated');

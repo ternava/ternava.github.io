@@ -297,5 +297,18 @@ window.PUBLICATIONS = [
     "supp": "https://zenodo.org/records/18773812",
     "slides": "",
     "html": "https://ternava.github.io/detog/"
+  },
+  {
+    "title": "Where did the variability go? From vibe coding to product lines by regeneration",
+    "author": "Tërnava, Xhevahire",
+    "abbr": "VARIABILITY2026",
+    "year": "2026",
+    "pdf": "",
+    "doi": "",
+    "award": "",
+    "alink": "",
+    "supp": "",
+    "slides": "",
+    "html": ""
   }
 ];

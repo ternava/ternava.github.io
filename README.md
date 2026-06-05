@@ -22,7 +22,7 @@ http-server -p 8000 --cors
 
 Once the server is running, I should point the browser to  
 http://localhost:8000/publications.html  
-—other pages follow the same pattern.
+- other pages follow the same pattern.
 
 ### Regenerating Publication Data
 

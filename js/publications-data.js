@@ -303,11 +303,11 @@ window.PUBLICATIONS = [
     "author": "Tërnava, Xhevahire",
     "abbr": "VARIABILITY2026",
     "year": "2026",
-    "pdf": "",
+    "pdf": "https://arxiv.org/pdf/2606.19042",
     "doi": "",
     "award": "",
     "alink": "",
-    "supp": "",
+    "supp": "https://zenodo.org/records/20730698",
     "slides": "",
     "html": ""
   }

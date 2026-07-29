@@ -62,6 +62,17 @@ a.award-link:hover {
   color: darkorange;
 }
 
+/* highlight the PhD thesis entry in the publications list */
+li.thesis-entry {
+  background-color: #f4f0fa;
+  border-left: 4px solid #7b5ea7;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  list-style: none;
+  margin-left: -1.25rem;
+  margin-bottom: 0.75rem;
+}
+
 /* About page layout */
 .about-content {
   display: flex;

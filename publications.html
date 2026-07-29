@@ -47,9 +47,13 @@
       });
       // Sort years descending
       const years = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
+      // Detect PhD thesis entries
+      const isThesis = p => /ph\.?d\.?\s*thesis|phdthesis/i.test(p.abbr || '');
       // Build HTML
       let html = '';
       years.forEach(y => {
+        // Move any PhD thesis to the top of its year's list
+        byYear[y].sort((a, b) => (isThesis(b) ? 1 : 0) - (isThesis(a) ? 1 : 0));
         html += `<h3>${y}</h3><ul>`;
         byYear[y].forEach(p => {
           // split on "and" and flip "Last, First" -> "First Last"
@@ -63,7 +67,7 @@
             })
             .join(', ');
 
-          html += `<li><strong>${p.title}</strong>. ${authors}. (${p.abbr})` +
+          html += `<li${isThesis(p) ? ' class="thesis-entry"' : ''}><strong>${p.title}</strong>. ${authors}. (${p.abbr})` +
                   (p.pdf  ? ` <a href="${p.pdf}" target="_blank">PDF</a>` : '') +
                   (p.doi  ? ` <a href="https://doi.org/${p.doi}" target="_blank">DOI</a>` : '') +
                   (p.supp ? ` <a href="${p.supp}" target="_blank">SUPP</a>` : '') +

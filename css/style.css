@@ -128,3 +128,60 @@ li.upcoming {
 li.upcoming strong {
   color: inherit !important;
 }
+
+/* ------------------------------------------------------------------ */
+/* Begin: the layout for small screens (phones / tablets in portrait) */
+
+@media (max-width: 640px) {
+  body {
+    margin: 1.25rem 1rem;   /* symmetric margins so nothing overflows */
+    max-width: none;
+    overflow-x: hidden;     /* guard against accidental horizontal scroll */
+  }
+
+  /* Stack the About text and profile image vertically */
+  .about-content {
+    flex-direction: column;
+    align-items: center;
+  }
+  .about-text {
+    width: 100%;
+  }
+
+  /* Let the profile image fill the column and stay within the viewport */
+  .about-image {
+    width: 100%;
+    margin-top: 1.5rem;
+    text-align: center;
+  }
+  .about-image figure {
+    display: block;
+  }
+  .about-image img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    margin-left: 0;
+    margin-top: 0;
+  }
+
+  /* Disable the 2x zoom on touch screens so it can't cause overflow;
+     show the caption permanently instead. */
+  .about-image img:hover,
+  .about-image img:focus,
+  .about-image img:active {
+    transform: none;
+  }
+  .about-image figcaption {
+    opacity: 1;
+  }
+
+  /* Allow long words / URLs to wrap instead of pushing width out */
+  main,
+  .about-text {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
+}
+/* End: the layout for small screens (phones / tablets in portrait) */
+/* ---------------------------------------------------------------- */

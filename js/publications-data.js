@@ -295,7 +295,7 @@ window.PUBLICATIONS = [
     "award": "",
     "alink": "",
     "supp": "https://zenodo.org/records/18773812",
-    "slides": "",
+    "slides": "supp/VARIABILITY2026-01-presentation.pdf",
     "html": "https://ternava.github.io/detog/"
   },
   {
@@ -308,7 +308,7 @@ window.PUBLICATIONS = [
     "award": "",
     "alink": "",
     "supp": "https://zenodo.org/records/20730698",
-    "slides": "",
+    "slides": "supp/VARIABILITY2026-02-presentation.pdf",
     "html": ""
   }
 ];

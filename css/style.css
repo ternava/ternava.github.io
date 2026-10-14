@@ -10,24 +10,18 @@ h1, h2 {
   margin-top: 1.5rem;
 }
 
-/* two thin vertical bars (red | black) left of the affiliation */
-.affiliation {
-  display: flex;
-  align-items: stretch;
-  gap: 0.6rem;
-}
-.al-mark {
-  flex: 0 0 auto;
-  width: 1.5ch;
-  align-self: stretch;
+/* tiny two-bar box (red | black) before the footer copyright */
+.al-box {
+  display: inline-block;
+  vertical-align: middle;
+  width: 1.2ch;
+  height: 0.9em;
+  margin-right: 0.25rem;
   background: linear-gradient(
     to right,
     #ce1126 0 50%,   /* red (Pantone 186 C) */
     #000 50% 100%    /* black */
   );
-}
-.affiliation-text {
-  flex: 1;
 }
 nav {
   margin-bottom: 2rem;

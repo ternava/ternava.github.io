@@ -23,6 +23,15 @@ h1, h2 {
     #000 50% 100%    /* black */
   );
 }
+/* period-sized red|black square after the surname in the title */
+.al-dot {
+  display: inline-block;
+  width: 0.24em;
+  height: 0.24em;
+  margin-left: 0;
+  vertical-align: -0.24em; /* top edge on the baseline, hanging below it */
+  background: linear-gradient(to right, #ce1126 0 50%, #000 50% 100%);
+}
 nav {
   margin-bottom: 2rem;
 }
